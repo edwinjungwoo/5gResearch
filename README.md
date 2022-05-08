@@ -1,2 +1,2 @@
 # deepLearning
-> SKT AI fellowship 연구계획서
+> SKT AI fellowship 연구계획서 
